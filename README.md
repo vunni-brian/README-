@@ -11,10 +11,10 @@
 
   <h3 align="center">About Me</h3>              
 
--   **🔭 I’m currently working on:** **AMR** (perhaps clarify what AMR is, e.g., "an Anti-Microbial Resistance tracking application" or "my project on Asset Management Reporting").
+-   **🔭 I’m currently working on:** **AMR** (AMR is an Anti-Microbial Resistance Website).
 -   **🌱 I’m currently learning:** **Node.js** to expand my full-stack capabilities.
 -   **💬 Ask me about:** **HTML, CSS, and JavaScript** – I love discussing web fundamentals!
--   **📫 How to reach me:** You can email me directly at **ousamahbrianvunni@gmail.com**.
+-   
 
 ---
 
