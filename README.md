@@ -7,9 +7,9 @@
   </a>
 </p>
 
----
 
-                                              About Me:
+
+  <h3 align="center">About Me</h3>              
 
 -   **🔭 I’m currently working on:** **AMR** (perhaps clarify what AMR is, e.g., "an Anti-Microbial Resistance tracking application" or "my project on Asset Management Reporting").
 -   **🌱 I’m currently learning:** **Node.js** to expand my full-stack capabilities.
@@ -18,7 +18,7 @@
 
 ---
 
-                                            Connect with Me:
+                                                   Connect with Me
 
 <p align="center">
   <a href="mailto:ousamahbrianvunni@gmail.com" target="_blank">
@@ -26,9 +26,7 @@
   </a>
   </p>
 
----
-
-                                          Languages and Tools:
+                                                 Languages and Tools                
 
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
